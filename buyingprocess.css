@@ -1,0 +1,133 @@
+﻿form {
+    margin-bottom: 0em;
+}
+
+.blue {
+ 	font-family: Arial, Helvetica, sans-serif;
+    color: blue;   
+}
+
+.buttons {
+    max-width: 200px;
+}
+
+.delivaryIdent {
+    padding-right: 27px;
+}
+
+.deliveryTable {
+    width: 900px;    
+}
+
+.deliveryTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+    color: blue;
+}
+
+.deliveryTextStyle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+}
+
+.deliveryCommentStyle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	color: gray;
+}
+
+.title_bars {
+	max-width: 700px;
+}
+
+.amuta_td {
+	padding-bottom: 10px;
+	padding-right: 30px;   
+}
+
+.amuta_td:first-child {
+	/* padding-left: 30px; */ 
+	padding-right: 0px;   
+}
+
+.amuta_img {
+	border: 2px transparent solid;
+	max-width: 100px;
+	max-height: 100px;
+    opacity: 0.6;
+}
+
+.amuta_img:hover {
+    opacity: 1;
+	border: 2px solid green;
+}
+
+.amuta_img_selected {
+	border: 2px solid blue;
+}
+
+.side_bars {
+	max-width: 200%;
+}
+
+.sets_table_style {
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	border-style: solid;
+	border-width: 1px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.sets_table_style_text {
+	background-color: #F4F4F4;	
+}
+
+.total_style {
+	background-color: #FFFFCC;
+}
+
+.selectSets {
+	font-size: large;
+}
+
+.sets_table_style:first-child {
+}
+
+.titlesStyle {
+	font-size: x-large;
+	color: blue;
+}
+
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-large;    
+    font-weight: bold;
+}
+
+.bulletFlex {
+    display: flex;
+    justify-content: center;
+    text-align: right;
+}
+
+.endOfProcessNote {
+    color: #55552b;
+}
+
+.noBullet {
+    list-style-type: none;
+}
+
+.endOfProcessDetails {    
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;    
+    font-weight: bold;
+}
+
+.detailsTable {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+}
